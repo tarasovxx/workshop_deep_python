@@ -127,4 +127,3 @@ with LookingGlass() as what:
     print("Alice, Kitty and Snowdrop")
     print(what)
 
-
